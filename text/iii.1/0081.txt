@@ -36,11 +36,11 @@ III. 80с + 20v + 40m; m'= 200%, p' = 40%
 ний робочий день, незмінна інтенсивність праці, зміна норми
 додаткової вартості, спричинена зміною заробітної плати — є
 єдиний випадок, на якому справджується положення Рікардо:
-„profits would be high or low, exactly in proportion as wages
-would be, low or high“ [„зиск буде високий чи низький точно
-в такій пропорції, в якій заробітна плата буде низька чи висока“]
-(„Principles of Political Economy“, розд. І, відділ III, стор. 18.
-„Works of D. Ricardo“, вид. Mac Culloch, 1852).
+«profits would be high or low, exactly in proportion as wages
+would be, low or high» [«зиск буде високий чи низький точно
+в такій пропорції, в якій заробітна плата буде низька чи висока»]
+(«Principles of Political Economy», розд. І, відділ III, стор. 18.
+«Works of D. Ricardo», вид. Mac Culloch, 1852).
 
 Або, подруге, якщо інтенсивність праці різна. Тоді, напри-
 клад, 20 робітників при однакових засобах праці за 10 робочих

@@ -44,7 +44,7 @@
 падає. 100 при 25% дає 25, 400 при 5% дає тільки 20. 35 Але
 якщо ті самі причини, які викликають падіння норми зиску,
 
-35 „We should also expect that, however the rate of the profits of stock
+35 «We should also expect that, however the rate of the profits of stock
 might diminish in consequence of the accumulation of capital on the land and the
 rise of wages, yet the aggregate amount of profits would increase. Thus, suppo-
 sing that, with repeated accumulations of 100 000 £, the rate of profits should fall from
